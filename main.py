@@ -1,4 +1,6 @@
 import pygame
+pygame.init()     # <<< ADDED
+
 import math
 from queue import PriorityQueue
 
