@@ -1,4 +1,4 @@
-# A* Pathfinding Visualizer (Elite Edition) 🚀
+# A* Pathfinding Visualizer  🚀
 
 An advanced, interactive pathfinding tool built with **Python** and **Pygame**. This version implements the A* algorithm with 8-directional movement and terrain-based cost analysis.
 
@@ -19,5 +19,6 @@ An advanced, interactive pathfinding tool built with **Python** and **Pygame**. 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/chirag-exists/A-Star-Pathfinding.git](https://github.com/chirag-exists/A-Star-Pathfinding.git)
-   # A* Pathfinding Visualizer (Elite Edition) 🚀
+   # A* Pathfinding Visualizer 🚀
+
 
