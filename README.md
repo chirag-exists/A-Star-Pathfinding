@@ -1,4 +1,4 @@
-# A* Pathfinding Visualizer (Elite Edition) 🚀
+# A* Pathfinding Visualizer
 
 An advanced, interactive pathfinding tool built with **Python** and **Pygame**. This version implements the A* algorithm with 8-directional movement and terrain-based cost analysis.
 
@@ -15,11 +15,5 @@ An advanced, interactive pathfinding tool built with **Python** and **Pygame**. 
 * [cite_start]**Space**: Run the A* algorithm[cite: 22].
 * [cite_start]**C**: Clear the entire grid[cite: 23].
 
-## 🛠️ Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/chirag-exists/A-Star-Pathfinding.git](https://github.com/chirag-exists/A-Star-Pathfinding.git)
-   # A* Pathfinding Visualizer (Elite Edition) 🚀
-
-
-
+## 🧠 How it Works
+[cite_start]The algorithm uses **Manhattan Distance** as its heuristic [cite: 7] [cite_start]to calculate the $f\_score$ of each node ($f(n) = g(n) + h(n)$)[cite: 8, 11].
